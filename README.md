@@ -1,2 +1,2 @@
 # Git Tutorial
-# Git tutorial will be comitted
+ Git tutorial will be comitted
